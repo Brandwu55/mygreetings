@@ -1,0 +1,2 @@
+# mygreetings
+return greeting str
